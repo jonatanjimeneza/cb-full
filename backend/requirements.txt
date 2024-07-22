@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+openai>=1.0.0
